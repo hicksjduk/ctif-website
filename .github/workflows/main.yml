@@ -29,8 +29,5 @@ jobs:
           username: ${{ secrets.SERVER_USERNAME }}
           password: ${{ secrets.SERVER_PASSWORD }}
           local_folder: '.'
-          cleanup: false
-          include: '[ "*", "**/*" ]'
           exclude: '[".github/**", ".git/**"]'
-          passive: true
 
