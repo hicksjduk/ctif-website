@@ -162,7 +162,7 @@ Click a name in the list on the right to see the details of that church or proje
 
 <div class="churchdata" id="christianaid" style="display:none">
 <img src="/images/calogo.gif" width="200" align="left" style="padding-right: 20px">
-<h2>Love and Cherish Marriage Preparation</h2>
+<h2>Christian Aid</h2>
 <a href="https://www.christianaid.org.uk/" target="_">(website)</a>
 </div>
 
