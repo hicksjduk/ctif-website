@@ -25,6 +25,11 @@ This takes place during the first week of the school summer holidays (24th-28th
 July), and bookings are now being taken. Please see the poster below for more information.
 <p>Our next meeting is on Tuesday 19th September, at 7.30pm, at Fareham United Reformed Church, 
 Osborn Road South PO16 7DG. Everyone is welcome.
+<h2>Latest news</h2>
+<img src="images/caweek2023.jpg" width="200" align="left" style="padding-right: 20px">
+<p><b>Christian Aid Week</b> raised almost £4000 in Fareham, through collections
+in churches, a street collection in Portchester and our stall in Fareham Leisure Centre.
+Many thanks to all who helped and all who gave.
 <img src="images/brightsparks.jpg" style="padding-top: 20px">
 </body>
 </html>
