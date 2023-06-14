@@ -28,7 +28,7 @@ Osborn Road South PO16 7DG. Everyone is welcome.
 <h2>Latest news</h2>
 <img src="images/caweek2023.jpg" width="200" align="left" style="padding-right: 20px">
 <p><b>Christian Aid Week</b> raised almost £4000 in Fareham, through collections
-in churches, a street collection in Portchester and our stall in Fareham Leisure Centre.
+in churches, a street collection in Portchester and our stall in Fareham Shopping Centre.
 Many thanks to all who helped and all who gave.
 <img src="images/brightsparks.jpg" style="padding-top: 20px">
 </body>
