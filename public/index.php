@@ -11,7 +11,7 @@ include("nav.html")
 ?>
 <h1>Welcome!</h1>
 <div style="padding-bottom: 30px">
-<img src="images/ctiflogo.jpg" align="left" height="100">
+<img src="images/ctiflogo.jpg" align="left" height="100" style="padding-right: 20px">
 <p>This is the website of Christians Together in Fareham - the churches in Fareham
 working together in partnership to proclaim the Good News about Jesus, and to
 bless our community through what we say and what we do.
