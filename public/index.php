@@ -20,8 +20,8 @@ what we do, or about any of our member churches, please
 <a href="mailto:enquiries@farehamchristians.org.uk">send us an email.</a>
 </div>
 <div>
-<h2>Holiday Club is under way!</h2>
 <img src="images/brightsparks.jpg" align="right" height="200px" >
+<h2>Holiday Club is under way!</h2>
 Our ecumenical summer holiday club, for children in school years 1-6, started on Monday
 and runs until Friday 28th July.
 We have 58 children attending, and lots of volunteers drawn from many different churches.
@@ -30,7 +30,7 @@ The theme is <b>Bright Sparks</b>, and focuses on Jesus, the Light of the World,
 he brings light into our lives. Our memory verse is taken from John 8:12 - 
 <i>I am the light of the world. Whoever follows me will not walk in darkness, but will
 have the light of life.</i>
-<p>Please pray for everyone involved.
+<p>Please give thanks for the many blessings we have already experienced, and pray for everyone involved.
 </div>
 <h2>Coming soon</h2>
 <p>Our next meeting is on Tuesday 19th September, at 7.30pm, at Fareham United Reformed Church, 
