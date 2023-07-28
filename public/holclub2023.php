@@ -14,7 +14,8 @@ include("nav.html")
 Our ecumenical summer holiday club, for children in school years 1-6, ran from Monday 24th
 until Friday 28th July.
 58 children attended, and almost as many volunteers, drawn from many different churches,
-helped out.
+helped to care for the children in their groups, run activities and lead sessions of
+celebration and teaching at the start and end of each day.
 <p>
 The theme was <b>Bright Sparks</b>, and focused on Jesus, the Light of the World, and how
 he brings light into our lives. Our memory verse was taken from John 8:12 - 
@@ -32,5 +33,8 @@ Links to the songs we enjoyed during the week are listed below.
 <li><a href="https://www.youtube.com/watch?v=-IFSTnFMN0g">God’s Love is Big  </a>
 <li><a href="https://www.youtube.com/watch?v=zVLG-aVKRMc">Shine from the inside out  </a>
 <li><a href="https://www.youtube.com/watch?v=FfpJ1SY4uJU">We want to see Jesus lifted high  </a>
+</ul>
+<h2>Photos</h2>
+<p>Photographs taken during the week will be posted here shortly.
 </body>
 </html>
