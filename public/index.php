@@ -21,24 +21,21 @@ what we do, or about any of our member churches, please
 </div>
 <div>
 <img src="images/brightsparks.jpg" align="right" height="200px" >
-<h2>Holiday Club is under way!</h2>
-Our ecumenical summer holiday club, for children in school years 1-6, started on Monday
-and runs until Friday 28th July.
-We have 58 children attending, and lots of volunteers drawn from many different churches.
+<h2>Holiday Club!</h2>
+Our ecumenical summer holiday club, for children in school years 1-6, ran from 24th
+to 28th July.
+58 children attended, and lots of volunteers drawn from many different churches helped
+to ensure the smooth running of the week.
 <p>
-The theme is <b>Bright Sparks</b>, and focuses on Jesus, the Light of the World, and how
-he brings light into our lives. Our memory verse is taken from John 8:12 - 
+The theme was <b>Bright Sparks</b>, and focused on Jesus, the Light of the World, and how
+he brings light into our lives. Our memory verse was taken from John 8:12 - 
 <i>I am the light of the world. Whoever follows me will not walk in darkness, but will
 have the light of life.</i>
-<p>Please give thanks for the many blessings we have already experienced, and pray for everyone involved.
+<p>For more information, including links to the songs we enjoyed singing during the week,
+please <a href="/holclub2023.php">visit this page.</a>
 </div>
 <h2>Coming soon</h2>
 <p>Our next meeting is on Tuesday 19th September, at 7.30pm, at Fareham United Reformed Church, 
 Osborn Road South PO16 7DG. Everyone is welcome.
-<h2>Latest news</h2>
-<img src="images/caweek2023.jpg" width="200" align="left" style="padding-right: 20px">
-<p><b>Christian Aid Week</b> raised almost £4000 in Fareham, through collections
-in churches, a street collection in Portchester and our stall in Fareham Shopping Centre.
-Many thanks to all who helped and all who gave.
 </body>
 </html>
