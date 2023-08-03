@@ -28,13 +28,53 @@ told us how much they and their children appreciated the week.
 <h2>Songs</h2>
 Links to the songs we enjoyed during the week are listed below.
 <ul>
-<li><a href="https://www.youtube.com/watch?v=HOJ0iRiqQOM">I believe in Jesus. (Holiday Club Theme Song) </a>
-<li><a href="https://www.youtube.com/watch?v=xVGORBCdh5A">Jump into the light </a>
-<li><a href="https://www.youtube.com/watch?v=-IFSTnFMN0g">God’s Love is Big  </a>
-<li><a href="https://www.youtube.com/watch?v=zVLG-aVKRMc">Shine from the inside out  </a>
-<li><a href="https://www.youtube.com/watch?v=FfpJ1SY4uJU">We want to see Jesus lifted high  </a>
+<li><a href="https://www.youtube.com/watch?v=HOJ0iRiqQOM">I believe in Jesus. (Holiday Club Theme Song)</a>
+<li><a href="https://www.youtube.com/watch?v=xVGORBCdh5A">Jump into the light</a>
+<li><a href="https://www.youtube.com/watch?v=-IFSTnFMN0g">God’s Love is Big</a>
+<li><a href="https://www.youtube.com/watch?v=zVLG-aVKRMc">Shine from the inside out</a>
+<li><a href="https://www.youtube.com/watch?v=FfpJ1SY4uJU">We want to see Jesus lifted high</a>
 </ul>
 <h2>Photos</h2>
-<p>Photographs taken during the week will be posted here shortly.
+<p>Each day started with an introduction to the day's theme, led by our brilliant up-front team...<p>
+<img src="/images/holclub2023/Zacchaeus.jpg" style="width: 40%; padding-right: 5%">
+<img src="/images/holclub2023/IanSamuelMarcel.jpg"  style="width: 40%">
+<p>...and singing and dancing to our favourite songs.<p>
+<img src="/images/holclub2023/Singing.jpg" style="height: 400px; vertical-align: middle">
+<img src="/images/holclub2023/Dancing.jpg" style="width: 40%; padding-left: 5%; vertical-align: middle">
+<p>Then we went off to activities, including crafts...<p>
+
+
+
+
+
+
+<table>
+<tr>
+<td><img src="/images/holclub2023/Craft1.jpg" height="400"></td>
+<td><img src="/images/holclub2023/Craft2.jpg" height="200">
+<img src="/images/holclub2023/Craft4.jpg" height="200">
+</td>
+<td><img src="/images/holclub2023/Craft3.jpg" height="400"></td>
+</tr></table>
+
+
+
+<p>
+<table>
+<tr>
+<td>
+... scientific experiments...<p>
+<img src="/images/holclub2023/Science.jpg" height="400">
+</td>
+<td>... and games, some led by Buzz and Woody aka John and David!<p>
+<img src="/images/holclub2023/BuzzWoody.jpg" height="400">
+</td>
+</tr>
+</table>
+
+
+
+<p>Our brilliant team of volunteers<p>
+<img src="/images/holclub2023/Team.jpg">
 </body>
 </html>
