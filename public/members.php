@@ -15,6 +15,9 @@ function show(div) {
 <?php
 include("nav.html")
 ?>
+<?php
+$div = $_GET['id'] ?? ''
+?>
 <h1>Member churches and supported projects</h1>
 <div id="members"/>
 <div id="content">
@@ -169,7 +172,7 @@ Click a name in the list on the right to see the details of that church or proje
 </div>
 <div id="menu">
 <ul>
-<li><a href="#" onclick="show('urc')">Fareham United Reformed Church</a>
+<li><a href="?id=urc" onclick="show('urc')">Fareham United Reformed Church</a>
 <li><a href="#" onclick="show('methodist')">Fareham Methodist Church</a>
 <li><a href="#" onclick="show('baptist')">Fareham Baptist New Life Church</a>
 <li><a href="#" onclick="show('hpbaptist')">Hill Park Baptist Church</a>
