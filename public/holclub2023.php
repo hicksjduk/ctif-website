@@ -14,7 +14,8 @@ include("nav.html")
 Our ecumenical summer holiday club, for children in school years 1-6, ran from Monday 24th
 until Friday 28th July.
 58 children attended, and almost as many volunteers, drawn from many different churches,
-helped to care for the children in their groups, run activities and lead sessions of
+cared for the children in their groups; ran activities; provided food for about a hundred people each day;
+and led sessions of
 celebration and teaching at the start and end of each day.
 <p>
 The theme was <b>Bright Sparks</b>, and focused on Jesus, the Light of the World, and how
@@ -28,19 +29,19 @@ told us how much they and their children appreciated the week.
 <h2>Songs</h2>
 Links to the songs we enjoyed during the week are listed below.
 <ul>
-<li><a href="https://www.youtube.com/watch?v=HOJ0iRiqQOM">I believe in Jesus. (Holiday Club Theme Song)</a>
+<li><a href="https://www.youtube.com/watch?v=HOJ0iRiqQOM">I believe in Jesus (Holiday Club theme song)</a>
 <li><a href="https://www.youtube.com/watch?v=xVGORBCdh5A">Jump into the light</a>
-<li><a href="https://www.youtube.com/watch?v=-IFSTnFMN0g">God’s Love is Big</a>
+<li><a href="https://www.youtube.com/watch?v=-IFSTnFMN0g">God’s love is big</a>
 <li><a href="https://www.youtube.com/watch?v=zVLG-aVKRMc">Shine from the inside out</a>
 <li><a href="https://www.youtube.com/watch?v=FfpJ1SY4uJU">We want to see Jesus lifted high</a>
 </ul>
 <h2>Photos</h2>
 <p>Each day started with an introduction to the day's theme, led by our brilliant up-front team...<p>
-<img src="/images/holclub2023/Zacchaeus.jpg" style="width: 40%; padding-right: 5%">
+<img src="/images/holclub2023/Zacchaeus.jpg" style="width: 40%; padding-right: 5px">
 <img src="/images/holclub2023/IanSamuelMarcel.jpg"  style="width: 40%">
 <p>...and singing and dancing to our favourite songs.<p>
 <img src="/images/holclub2023/Singing.jpg" style="height: 400px; vertical-align: middle">
-<img src="/images/holclub2023/Dancing.jpg" style="width: 40%; padding-left: 5%; vertical-align: middle">
+<img src="/images/holclub2023/Dancing.jpg" style="width: 40%; padding-left: 5px; vertical-align: middle">
 <p>Then we went off to activities, including crafts...<p>
 
 
