@@ -35,7 +35,18 @@ have the light of life.</i>
 please <a href="/holclub2023.php">visit this page.</a>
 </div>
 <h2>Coming soon</h2>
-<p>Our next meeting is on Tuesday 19th September, at 7.30pm, at Fareham United Reformed Church, 
-Osborn Road South PO16 7DG. Everyone is welcome.
+<img src="images/christingle-orange-12544519.jpg" align="left" height="80px">
+<p>We will be holding a <b>Christingle stall</b> in West Street, as part of the festivities
+around the Christmas lights switch on on Saturday 18th November. This is a wonderful opportunity
+to engage with children and families about the true meaning of Christmas - the birth of Jesus,
+the Light of the World.
+<br>Volunteers to help with the stall will be most welcome - please email 
+<a href="mailto:chair@farehamchristians.org.uk">Rachel Hicks</a> if you would like to offer
+to help, or to know more.
+<p>Our next meeting is on <b>Monday 20th November</b>, at 7.15 for 7.30pm, at St Philip Howard Church, 
+Bishopsfield Road PO14 1QS. Everyone is welcome. <u>Please note</u> that this has been 
+rearranged from the date that was originally set (Tuesday 8th November), in order to avoid a 
+clash with the
+licensing of Rev Sam Cullen at Holy Trinity.
 </body>
 </html>
