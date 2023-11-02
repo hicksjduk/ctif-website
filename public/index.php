@@ -45,7 +45,7 @@ the Light of the World.
 to help, or to know more.
 <p>Our next meeting is on <b>Monday 20th November</b>, at 7.15 for 7.30pm, at St Philip Howard Church, 
 Bishopsfield Road PO14 1QS. Everyone is welcome. <u>Please note</u> that this has been 
-rearranged from the date that was originally set (Tuesday 8th November), in order to avoid a 
+rearranged from the date that was originally set (Wednesday 8th November), in order to avoid a 
 clash with the
 licensing of Rev Sam Cullen at Holy Trinity.
 </body>
