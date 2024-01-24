@@ -40,5 +40,10 @@ These will then be taken to the Methodist Church as part of the Terracycle proje
 <p>Used stamps, coins, spectacles, hearing aids, mobile phones, ink cartridges, aluminum foil,
 milk bottle tops. See <a href="https://stjohnsfareham.org.uk/ecochurch/">the church's
 recycling page</a> for more details.
+<h3>Fareham Methodist Church - Terracycle</h3>
+<p>There is a blue Terracycle bin outside the church, in which a variety of items can be placed.
+For details of what is accepted, please <a href="Terracycle.pdf">see here</a>. Note that
+although the individual programmes are sponsored by particular brands, all brands of the
+relevant packaging type are accepted.
 </body>
 </html>
