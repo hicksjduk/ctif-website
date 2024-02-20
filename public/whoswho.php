@@ -38,19 +38,14 @@ Accounting Technicians.
 Snooker, Rugby and (before Abu Dhabi) F1.
 </div>
 <div>
-<img src="images/Ian.jpg" align="left" height="150" style="padding-right: 20px">
-<h2><a href="mailto:secretary@farehamchristians.org.uk">Ian Corless</a> - Secretary</h2>
-<p>I worship at Fareham United Reformed Church where I am a non-serving elder. 
-I was brought up within the Methodist tradition and worshipped across many different congregations before moving to 
-Hampshire in 2004 to work for the NHS. I have worked for a number of local Primary Care Trusts and Clinical Commissioning Groups 
-in the role of Board Secretary and corporate governance lead. 
-I am married to Fiona, and we have two sons. We previously lived in Milton Keynes, and met and 
-were married at the ecumenical Church of Christ the Cornerstone in central Milton Keynes. 
-Having also worked for the Council for World Mission for a decade, I have a passion for ecumenical work 
-and seen my faith enlarged through the experiences of sharing our God-given talents, skills, 
-resources and knowledge in mission and worship. When not at work 
-or involved in church, I am a loyal supporter of football (AFC Portchester, Havant and Waterlooville and Crystal Palace) 
-and love going to live music gigs.
+<img src="images/Jeremy.jpg" align="left" height="150" style="padding-right: 20px">
+<h2><a href="mailto:secretary@farehamchristians.org.uk">Jeremy Hicks</a> - Secretary</h2>
+<p>I worship at St John's Church where I am a Reader (lay preacher) and music leader. 
+Before retirement I was a software engineer in the digital television industry. I enjoy cycling, 
+playing and watching sport, travel, beer, and the annual Greenbelt festival.
+I met Rachel at an ecumenical Lent study group in Fareham, and we have been married 
+for over thirty years. <!--; we have a son and a grandson.--> 
+I'm excited to be part of CTiF because of the many different ways in which we work together to bless our community.
 </div>
 </div>
 </body>
