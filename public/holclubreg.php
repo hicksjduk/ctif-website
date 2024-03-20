@@ -21,7 +21,7 @@ The cost of the week is £15 per child. However, if the cost for your child/chil
 Yes. The children will be given a snack during the morning, as well as lunch. 
 <h2>How do I book a place for my child?</h2> 
 <ol>
-<li><a href="https://forms.office.com/r/9BqjgCgjbV">Complete an online registration form</a>, 
+<li><a href="https://form.jotform.com/240794176485064">Complete an online registration form</a>, 
 or complete a paper copy and hand it in to the office at Holy Trinity Church, 132 West Street, 
 between 9am and 12 noon on weekdays. 
 <li>Pay the booking fee of £15, which can be paid:
