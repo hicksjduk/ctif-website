@@ -21,24 +21,8 @@ what we do, or about any of our member churches, please
 </div>
 <div>
 <img src="images/brightsparks.jpg" align="right" height="200px" >
-<h2>Holiday Club!</h2>
-Our ecumenical summer holiday club, for children in school years 1-6, ran from 24th
-to 28th July.
-58 children attended, and lots of volunteers drawn from many different churches helped
-to ensure the smooth running of the week.
-<p>
-The theme was <b>Bright Sparks</b>, and focused on Jesus, the Light of the World, and how
-he brings light into our lives. Our memory verse was taken from John 8:12 - 
-<i>I am the light of the world. Whoever follows me will not walk in darkness, but will
-have the light of life.</i>
-<p>For more information, including links to the songs we enjoyed singing during the week,
-please <a href="/holclub2023.php">visit this page.</a>
-</div>
 <h2>Coming soon</h2>
-<p><b>Christmas is coming!</b> All the churches in Fareham will soon be celebrating the
-season of Advent, which starts on 3rd December, in preparation to welcome the new-born
-King at Christmas. Details of services for Advent and Christmas can be found on the
-websites of the different churches, which are listed on our <a href="/members.php">
-Member churches</a> page.
+<p>Join us on <b>Good Friday</b>, 29th March, at the Podium in West Street.
+The service begins at 10.30am.
 </body>
 </html>
