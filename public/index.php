@@ -20,9 +20,9 @@ what we do, or about any of our member churches, please
 <a href="mailto:enquiries@farehamchristians.org.uk">send us an email.</a>
 </div>
 <div>
-<img src="images/brightsparks.jpg" align="right" height="200px" >
 <h2>Coming soon</h2>
-<p>Join us on <b>Good Friday</b>, 29th March, at the Podium in West Street.
-The service begins at 10.30am.
+<a href="BigSing.pdf"><img src="images/BigSing.jpg" align="left" height="200"></a>
+<p>The CTiF <b>Big Sing</b> is on Sunday 5th May, at 6pm, at St John's
+Church. Click the image to see full details.</p>
 </body>
 </html>
