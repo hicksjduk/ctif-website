@@ -26,7 +26,8 @@ or complete a paper copy and hand it in to the office at Holy Trinity Church, 13
 between 9am and 12 noon on weekdays. 
 <li>Pay the booking fee of £15, which can be paid:
 <ul>
-<li>by bank transfer to sort code 30-93-17, account number 00055620. Please use the reference <i>HC Surname</i>, where <i>Surname</i> is your child's surname. 
+<li>by bank transfer to sort code 30-93-17, account number 00055620 (account name: Christians Together in Fareham). 
+Please use the reference <i>HC Surname</i>, where <i>Surname</i> is your child's surname. 
 (For example, for a booking for Tommy Smith, the reference will be <i>HC Smith</i>.) 
 <li>by cash to the office at Holy Trinity Church (address above).
 </ul>
