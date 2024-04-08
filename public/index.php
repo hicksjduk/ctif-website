@@ -21,8 +21,20 @@ what we do, or about any of our member churches, please
 </div>
 <div>
 <h2>Coming soon</h2>
-<a href="BigSing.pdf"><img src="images/BigSing.jpg" align="left" height="200"></a>
+<table>
+<tr>
+<td><a href="BigSing.pdf"><img src="images/BigSing.jpg" align="left" height="150"></a>
 <p>The CTiF <b>Big Sing</b> is on Sunday 5th May, at 6pm, at St John's
-Church. Click the image to see full details.</p>
+Church. Click the poster image to see full details.</p>
+</td>
+</tr>
+<tr>
+<td><a href="holclubreg.php"><img src="images/HolClub.jpg" align="left" height="150"></a>
+<p>The CTiF <b>Children's Holiday Club</b> will be during the first full week of the summer 
+holidays - from Monday 29th July to Friday 2nd August. <a href="holclubreg.php">Booking is now open!</a>
+Click the poster image to see full details.</p>
+</td>
+</tr>
+</table>
 </body>
 </html>
