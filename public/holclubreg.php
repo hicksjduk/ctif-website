@@ -12,7 +12,7 @@ include("nav.html")
 <a href="images/HolCLub.jpg"><img src="images/HolClub.jpg" align="right" height="300"></a>
 <h1>Holiday Club 2024</h1>
 <h2>When is it?</h2>
-Monday 29 July to Friday 2nd August - 9.45am to 1.15pm. On Friday 2nd August, parents/carers are invited to come along at 12.45pm to watch the 'All Together Activity'. 
+Monday 29th July to Friday 2nd August - 9.45am to 1.15pm. On Friday 2nd August, parents/carers are invited to come along at 12.45pm to watch the 'All Together Activity'. 
 <h2>Where is it?</h2>
 The Holiday Club is based at Gateway Church Fareham (171-173 West Street), but activities will also take place at Fareham United Reformed Church and Fareham Methodist Church.
 You will always drop off your child and pick them up from Gateway Church. Your child will be escorted safely to the other venues. 
