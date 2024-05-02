@@ -25,15 +25,10 @@ Yes. The children will be given a snack during the morning, as well as lunch.
 <li><a href="https://form.jotform.com/240794176485064">Complete an online registration form</a>, 
 or complete a paper copy and hand it in to the office at Holy Trinity Church, 132 West Street, 
 between 9am and 12 noon on weekdays. 
-<li>Pay the booking fee of £15, which can be paid:
-<ul>
-<li>by bank transfer to sort code 30-93-17, account number 00055620 (account name: Christians Together in Fareham). 
-Please use the reference <i>HC Surname</i>, where <i>Surname</i> is your child's surname. 
-(For example, for a booking for Tommy Smith, the reference will be <i>HC Smith</i>.) 
-<li>by cash to the office at Holy Trinity Church (address above).
-</ul>
 </ol>
-Once your form and payment have been received, we will be in touch to confirm your child's place at the Holiday Club.
+<b>Please note that we are now fully booked.</b> You are still welcome to fill in the registration form,
+and if you do so your child will be added to the waiting list. <u>Please do not pay at this stage.</u>
+If we are able to offer your child a place, we will contact you and ask you to pay then.
 <h2>Any other questions?</h2>
 Contact Debs on 07749 023776, or email <a href="mailto:holidayclub@farehamchristians.org.uk">holidayclub@farehamchristians.org.uk</a>
 </body>
