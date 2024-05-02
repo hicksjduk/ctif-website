@@ -9,7 +9,7 @@
 <?php
 include("nav.html")
 ?>
-<a href="images/HolCLub.jpg"><img src="images/HolClub.jpg" align="right" height="300"></a>
+<a href="images/HolCLubSoldOut.png"><img src="images/HolClubSoldOut.png" align="right" height="300"></a>
 <h1>Holiday Club 2024</h1>
 <h2>When is it?</h2>
 Monday 29th July to Friday 2nd August - 9.45am to 1.15pm. On Friday 2nd August, parents/carers are invited to come along at 12.45pm to watch the 'All Together Activity'. 

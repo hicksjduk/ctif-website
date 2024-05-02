@@ -29,9 +29,10 @@ Church. Click the poster image to see full details.</p>
 </td>
 </tr>
 <tr>
-<td><a href="holclubreg.php"><img src="images/HolClub.jpg" align="left" height="150"></a>
+<td><a href="holclubreg.php"><img src="images/HolClubSoldOut.png" align="left" height="150"></a>
 <p>The CTiF <b>Children's Holiday Club</b> will be during the first full week of the summer 
-holidays - from Monday 29th July to Friday 2nd August. <a href="holclubreg.php">Booking is now open!</a>
+holidays - from Monday 29th July to Friday 2nd August. 
+<a href="holclubreg.php">It is now fully-booked - though it is still possible to join the waiting list.</a>
 Click the poster image to see full details.</p>
 </td>
 </tr>
