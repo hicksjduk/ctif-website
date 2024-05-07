@@ -28,7 +28,7 @@ what we do, or about any of our member churches, please
 <a href="ca70k.pdf"><img src="images/ca70k.jpg" height="150" align="right"></a>
 <b>Christian Aid Week</b> is celebrated in our churches between Sunday 12th and Saturday 18th May.
 <br>Come and see us at our stall in Fareham Shopping Centre, any day from Monday to Saturday.
-<br>Join us for some or all of our sponsored 70K bike ride on Saturday 18th May - click the poster image (right)
+<br>Join us or sponsor us for some or all of our sponsored 70K bike ride on Saturday 18th May - click the poster image (right)
 for more information.
 <br>If you would like to make a donation, please 
 <a href="https://fundraise.christianaid.org.uk/envelope-2024/fareham-portchester-ca-group">visit our e-envelope</a>
