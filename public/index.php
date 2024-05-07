@@ -23,16 +23,23 @@ what we do, or about any of our member churches, please
 <h2>Coming soon</h2>
 <table>
 <tr>
-<td><a href="BigSing.pdf"><img src="images/BigSing.jpg" align="left" height="150"></a>
-<p>The CTiF <b>Big Sing</b> is on Sunday 5th May, at 6pm, at St John's
-Church. Click the poster image to see full details.</p>
+<td>
+<img src="images/calogo.gif" width="150" align="left">
+<a href="ca70k.pdf"><img src="images/ca70k.jpg" height="150" align="right"></a>
+<b>Christian Aid Week</b> is celebrated in our churches between Sunday 12th and Saturday 18th May.
+<br>Come and see us at our stall in Fareham Shopping Centre, any day from Monday to Saturday.
+<br>Join us for some or all of our sponsored 70K bike ride on Saturday 18th May - click the poster image (right)
+for more information.
+<br>If you would like to make a donation, please 
+<a href="https://fundraise.christianaid.org.uk/envelope-2024/fareham-portchester-ca-group">visit our e-envelope</a>
+and pop something in it! 
 </td>
 </tr>
 <tr>
 <td><a href="holclubreg.php"><img src="images/HolClubSoldOut.png" align="left" height="150"></a>
 <p>The CTiF <b>Children's Holiday Club</b> will be during the first full week of the summer 
 holidays - from Monday 29th July to Friday 2nd August. 
-<a href="holclubreg.php">It is now fully-booked - though it is still possible to join the waiting list.</a>
+<a href="holclubreg.php">It is now fully booked - though it is still possible to join the waiting list.</a>
 Click the poster image to see full details.</p>
 </td>
 </tr>
