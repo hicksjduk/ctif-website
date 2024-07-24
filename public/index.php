@@ -23,23 +23,18 @@ what we do, or about any of our member churches, please
 <h2>Coming soon</h2>
 <table>
 <tr>
-<td>
-<img src="images/calogo.gif" width="150" align="left">
-<a href="ca70k.pdf"><img src="images/ca70k.jpg" height="150" align="right"></a>
-<b>Christian Aid Week</b> is celebrated in our churches between Sunday 12th and Saturday 18th May.
-<br>Come and see us at our stall in Fareham Shopping Centre, any day from Monday to Saturday.
-<br>Join us or sponsor us for some or all of our sponsored 70K bike ride on Saturday 18th May - click the poster image (right)
-for more information.
-<br>If you would like to make a donation, please 
-<a href="https://fundraise.christianaid.org.uk/envelope-2024/fareham-portchester-ca-group">visit our e-envelope</a>
-and pop something in it! 
-</td>
-</tr>
-<tr>
-<td><a href="holclubreg.php"><img src="images/HolClubSoldOut.png" align="left" height="150"></a>
-<p>The CTiF <b>Children's Holiday Club</b> will be during the first full week of the summer 
-holidays - from Monday 29th July to Friday 2nd August. 
-<b>It is now fully booked</b>, and registration is closed.</p>
+<td><a href="holclubreg.php"><img src="images/HolClub.jpg" align="right" height="150"></a>
+<p>The CTiF <b>Children's Holiday Club</b> runs from Monday 29th July to Friday 2nd August. 
+<b>Please pray</b> that:
+<ul>
+<li>God will speak into the hearts of the children
+<li>seeds will be sown
+<li>the children will have fun
+<li>the children will pass on something of the message and good news of Jesus to their families
+<li>the volunteers stay well and full of energy through the week
+<li>the volunteers will be able to build relationships and engage well with the children
+</ul>
+</p>
 </td>
 </tr>
 </table>
