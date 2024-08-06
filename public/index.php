@@ -20,20 +20,15 @@ what we do, or about any of our member churches, please
 <a href="mailto:enquiries@farehamchristians.org.uk">send us an email.</a>
 </div>
 <div>
-<h2>Coming soon</h2>
+<h2>Latest news</h2>
 <table>
 <tr>
-<td><a href="holclubreg.php"><img src="images/HolClub.jpg" align="right" height="150"></a>
-<p>The CTiF <b>Children's Holiday Club</b> runs from Monday 29th July to Friday 2nd August. 
-<b>Please pray</b> that:
-<ul>
-<li>God will speak into the hearts of the children
-<li>seeds will be sown
-<li>the children will have fun
-<li>the children will pass on something of the message and good news of Jesus to their families
-<li>the volunteers stay well and full of energy through the week
-<li>the volunteers will be able to build relationships and engage well with the children
-</ul>
+<td><a href="holclubreg.php"><img src="images/HolClub24.jpg" align="right" height="150"></a>
+<p>The CTiF <b>Children's Holiday Club</b> was a huge success once again. Thank you to everyone
+who took part, and everyone who prayed for us. The children had a wonderful time, engaging
+with all the activities, singing and dancing to the songs, hearing the message of God's love
+for them, and learning the memory verse: "A new commandment I give you: love one another as
+I've loved you."
 </p>
 </td>
 </tr>
