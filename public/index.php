@@ -21,13 +21,14 @@ what we do, or about any of our member churches, please
 </div>
 <div>
 <h2>Statement about recent events</h2>
+<p><i>Issued on 6th August 2024</i>
 <p><b>In the wake of the shocking attack on young people in Southport last week, 
 and the violence that has followed in several towns and cities, Christians Together in Fareham 
 want to express our love, prayers and solidarity with all the victims. As people of prayer, we 
 continue to pray for those who have been injured and bereaved; as people of the truth, we reject 
 all attempts to make dishonest political capital out of the suffering of the Southport victims; 
-as people of justice, we condemn the scapegoating of asylum seekers, Muslims, people of colour, 
-and others who bear no responsibility for what happened. We commit ourselves afresh to standing 
+as people of justice, we condemn the scapegoating of asylum seekers, Muslims, people of colour 
+and others, who bear no responsibility for what happened. We commit ourselves afresh to standing 
 against hatred and violence in every form, and doing all we can to build safe, caring and strong communities.
 </b>
 <h2>Latest news</h2>
