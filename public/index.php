@@ -24,7 +24,8 @@ what we do, or about any of our member churches, please
 <p><img src="images/Christingle.jpg" align="left" height="100" style="padding-right: 20px">
 We are running a <b>Christingle stall</b> as part of the festivities for
 the Christmas lights switch-on in Fareham, on Saturday 23rd November from 11am.
-We will be indoors, so don't let Storm Bert put you off - come and see us!  
+We will be indoors (in the former home of Jobcentre Plus, and before that Woolworths), 
+so don't let Storm Bert put you off - come and see us!  
 </div>
 <div style="padding-bottom: 30px">
 <p>
