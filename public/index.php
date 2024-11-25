@@ -34,7 +34,8 @@ to all the volunteers, from several different churches, who came along to help o
 <div style="padding-bottom: 30px">
 <p>
 <h3>Christmas is coming!</h3> 
-<p>Visit <a href="members.php">our member churches' websites</a> to find out when their Christmas services are.
+<p>We have <a href="xmas24.php">a page listing the Christmas services</a> which have been notified to us; or
+visit <a href="members.php">our member churches' websites</a> to find out when their Christmas services are.
 <p><a href="images/Carols Poster.jpg"><img src="images/Carols Poster.jpg" align="left" height="100" style="padding-right: 20px"></a>
 We will be <b>singing carols in Fareham shopping precinct</b> on Saturday 21st December, 10.30 to 11.30am.
 Come and join us! Click the poster for more details.
