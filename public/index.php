@@ -19,14 +19,18 @@ bless our community through what we say and what we do.
 what we do, or about any of our member churches, please 
 <a href="mailto:enquiries@farehamchristians.org.uk">send us an email.</a>
 </div>
-<h2>Upcoming events</h2>
+<h2>Latest news</h2>
 <div style="padding-bottom: 50px">
-<p><img src="images/Christingle.jpg" align="left" height="100" style="padding-right: 20px">
-We are running a <b>Christingle stall</b> as part of the festivities for
-the Christmas lights switch-on in Fareham, on Saturday 23rd November from 11am.
-We will be indoors (in the former home of Jobcentre Plus, and before that Woolworths), 
-so don't let Storm Bert put you off - come and see us!  
+<p>
+<img src="images/Christingle24.jpg" align="right" height="100" style="padding-right: 20px">
+<img src="images/JMHChristingle.jpg" align="left" height="100" style="padding-right: 20px">
+We ran a very successful <b>Christingle stall</b> as part of the festivities for
+the Christmas lights switch-on in Fareham.
+We welcomed almost 200 children and their families to make a Christingle, and had some
+great conversations as we bore witness to the real meaning of Christmas. Many thanks
+to all the volunteers, from several different churches, who came along to help out.  
 </div>
+<h2>Upcoming events</h2>
 <div style="padding-bottom: 30px">
 <p>
 <h3>Christmas is coming!</h3> 
