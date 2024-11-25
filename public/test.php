@@ -10,7 +10,8 @@
 include("nav.html")
 ?>
 <?php
-echo date_parse("2019-12-09")
+$a = date_parse("2019-12-09")
+var_dump($a)
 ?>
 </body>
 </html>
