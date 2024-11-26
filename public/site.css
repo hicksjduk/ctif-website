@@ -49,3 +49,7 @@ h2 {
 #members #menu ul {
 	list-style-type: none;
 }
+
+div {
+	clear: both;
+}
