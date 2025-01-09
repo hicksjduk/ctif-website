@@ -48,29 +48,6 @@ to all the volunteers, from several different churches, who came along to help o
 <p>&nbsp;
 <h2>Upcoming events</h2>
 
-<?php if (today_in_range(end: "2024-12-25")):?>
-<div>
-<h3>Christmas is coming!</h3> 
-<p>We have <a href="xmas24.php">a page listing the Christmas services</a> which have been notified to us; or
-visit <a href="members.php">our member churches' websites</a> to find out when their Christmas services are.
-<?php if (today_in_range(null, "2024-12-13")):?>
-<p><b>An Advent service featuring Graham Kendrick's <i>The Gift</i></b> 
-is taking place at Immaculate Conception Catholic Church in Stubbington, on Friday 13th December at 7pm.
-All are welcome.
-</div>
-<?php endif ?>
-
-<?php if (today_in_range(null, "2024-12-21")):?>
-<div>
-<p>&nbsp;
-<p><a href="images/Carols Poster.jpg"><img src="images/Carols Poster.jpg" align="left" height="100" style="padding-right: 20px"></a>
-We will be <b>singing carols in Fareham shopping precinct</b> on Saturday 21st December, 10.30 to 11.30am.
-Come and join us! Click the poster for more details.
-</div>
-<?php endif ?>
-
-<?php endif ?>
-
 <?php if (today_in_range(start: "2024-12-26", end: "2025-03-09")):?>
 <div>
 <p>&nbsp;
@@ -91,7 +68,9 @@ as possible.
 <?php if (today_in_range(start: "2024-12-26", end: "2025-01-25")):?>
 <div>
 <p>&nbsp;
-<p>The <b>Week of Prayer for Christian Unity</b> runs from 18th to 25th January.
+<p><img src="images/WPCU Poster 2025.jpg" 
+ align="left" height="100" style="padding-right: 20px">
+The <b>Week of Prayer for Christian Unity</b> runs from 18th to 25th January.
 Resources for the Week are available from
 <a href="https://ctbi.org.uk/resources-for-week-of-prayer-for-christian-unity-2025/">Churches 
 Together in Britain and Ireland</a>.
