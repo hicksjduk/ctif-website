@@ -127,8 +127,8 @@ Click a name in the list on the right to see the details of that church or proje
 <div class="churchdata" id="christchurch" style="display:none">
 <img src="/images/christchurch.png" align="left" style="padding-right: 20px">
 <h2>Christ Church Fareham</h2>
-<p>Orchard Lea Junior School, Kennedy Avenue, Fareham PO15 6BJ
-<p><a href="https://goo.gl/maps/FceztEvxoWKHk8KJ8" target="_">(map)</a> 
+<p>Cams Hill School, Shearwater Avenue, Fareham PO16 8AH
+<p><a href="https://maps.app.goo.gl/GnP3kmyTJiL37u717" target="_">(map)</a> 
 <a href="https://christchurchfareham.co.uk/" target="_">(website)</a>
 </div>
 
