@@ -9,6 +9,16 @@
 <?php
 include("nav.html")
 ?>
+<?php
+function today_in_range($start = null, $end = null)
+{
+	$today = date("Y-m-d");
+//	$today = "2025-03-09";
+	if (empty($start)) $start_iso = $today;
+	if (empty($end)) $end = $today;
+	return $today >= $start && $today <= $end;
+}
+?>
 <a href="images/HolCLub.png"><img src="images/HolClub.png" align="right" height="300"></a>
 <h1>Holiday Club 2025</h1>
 <h2>When is it?</h2>
@@ -21,7 +31,12 @@ The cost of the week is £15 per child. However, if the cost for your child/chil
 <h2>Is food provided?</h2>
 Yes. The children will be given a snack during the morning, as well as lunch. 
 <h2>How do I book a place for my child?</h2>
+<? if (today_in_range(start: "2025-05-06")): ?>
 Fill in <a href="https://form.jotform.com/240794176485064">the registration form.</a> 
+<? else: ?>
+Please come back to this page on or after <b>Tuesday 6th May</b>, when booking opens
+and a link to the booking form will be available here. 
+<? endif ?>
 <p><b>Please note that demand for the holiday club is likely to be extremely high.
 In fairness to everyone, we ask you only to book if you can ensure that your child 
 will be able to attend all five days.</b>
