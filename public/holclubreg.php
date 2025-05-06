@@ -31,8 +31,7 @@ The cost of the week is £15 per child. However, if the cost for your child/chil
 <h2>Is food provided?</h2>
 Yes. The children will be given a snack during the morning, as well as lunch. 
 <h2>How do I book a place for my child?</h2>
-Please come back to this page on or after <b>Tuesday 6th May</b>, when booking opens
-and a link to the booking form will be available here. 
+Fill in <a href="https://form.jotform.com/240794176485064">the registration form.</a> 
 <p><b>Please note that demand for the holiday club is likely to be extremely high.
 In fairness to everyone, we ask you only to book if you can ensure that your child 
 will be able to attend all five days.</b>
