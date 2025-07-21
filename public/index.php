@@ -51,12 +51,14 @@ to all the volunteers, from several different churches, who came along to help o
 <div>
 <img src="images/HolClub.png" align="left" height="100">
 Our <b>2025 Summer Holiday Club</b> will take place from 28th July to 1st August.
-<a href="/holclubreg.php">Booking is now open</a> - please click the link to find out more..
-<p>The next meeting of Christians Together in Fareham is on Monday 9th June, 
-at Fareham Methodist Church,
-King's Road PO16 0NU, at 7.15pm for 7.30. All are welcome.
+<b>Booking is now closed</b>. <br>Please pray for the children and adults who will be 
+taking part, that everyone may have a brilliant time and learn more about Jesus.
 </div>
-
+<div>
+<p>The next meeting of Christians Together in Fareham is on Wednesday 10th September, 
+at St John's Church,
+Upper St Michael's Grove PO14 1DN, at 7.15pm for 7.30. All are welcome.
+</div>
 </div>
 </body>
 </html>
