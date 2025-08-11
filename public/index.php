@@ -50,9 +50,13 @@ to all the volunteers, from several different churches, who came along to help o
 <h2>Upcoming events</h2>
 <div>
 <img src="images/HolClub.png" align="left" height="100">
-Our <a href="holclubreg.php"><b>2025 Summer Holiday Club</b></a> will take place from 28th July to 1st August.
-<b>Booking is now closed</b>. <br>Please pray for the children and adults who will be 
-taking part, that everyone may have a brilliant time and learn more about Jesus.
+Our <b>2025 Summer Holiday Club</b> took place from 28th July to 1st August.
+It was a huge success with 60 children and about 50 adults enjoying time together, 
+learning and exploring what it is to have God and Jesus in our lives!
+<br>Thank you everyone for your support and prayers.
+Please continue to pray for the children and their families. Pray that the seeds sown will germinate and flourish.
+<br>If you would like to know more or be involved next year, please 
+<a href="mailto:chair@farehamchristians.org.uk">make contact.</a>
 </div>
 <div>
 <p>The next meeting of Christians Together in Fareham is on Wednesday 10th September, 
