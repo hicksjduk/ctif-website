@@ -13,7 +13,7 @@ include("nav.html")
 <p>Click on the person's name to send them an email.
 <div id="whoswho">
 <div>
-<img src="images/Rachel.jpg" align="left" height="200" style="padding-right: 20px">
+<img src="images/Rachel.jpg" align="left" width="100" style="padding-right: 20px">
 <h2><a href="mailto:chair@farehamchristians.org.uk">Rachel Hicks</a> - Chair</h2>
 <p>I worship at St John's Church. 
 I am married to Jeremy, and we have a son and a grandson.
@@ -26,7 +26,7 @@ part of Christians Together in Fareham, because I am passionate about Christians
 together to spread the Good News of Jesus in both word and deed.
 </div>
 <div>
-<img src="images/Liz.jpg" align="left" height="150" style="padding-right: 20px">
+<img src="images/Liz.jpg" align="left" width="100" style="padding-right: 20px">
 <h2><a href="mailto:treasurer@farehamchristians.org.uk">Liz Dunning</a> - Treasurer</h2>
 <p>I am a member of Fareham United Reformed Church where I am secretary 
 and assistant treasurer. I love that CTiF brings us all together with  
@@ -34,7 +34,7 @@ Lent groups, ecumenical services and Christingle making!
 <p>My favourite pastime is camping but I also love gardening and cooking.
 </div>
 <div>
-<img src="images/Jeremy.jpg" align="left" height="150" style="padding-right: 20px">
+<img src="images/Jeremy.jpg" align="left" width="100" style="padding-right: 20px">
 <h2><a href="mailto:secretary@farehamchristians.org.uk">Jeremy Hicks</a> - Secretary</h2>
 <p>I worship at St John's Church where I am a Reader (lay preacher) and music leader. 
 Before retirement I was a software engineer in the digital television industry. I enjoy cycling, 
