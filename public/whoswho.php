@@ -26,7 +26,7 @@ part of Christians Together in Fareham, because I am passionate about Christians
 together to spread the Good News of Jesus in both word and deed.
 </div>
 <div>
-<!--img src="images/Liz.jpg" align="left" height="150" style="padding-right: 20px"-->
+<img src="images/Liz.jpg" align="left" height="150" style="padding-right: 20px">
 <h2><a href="mailto:treasurer@farehamchristians.org.uk">Liz Dunning</a> - Treasurer</h2>
 <p>I am a member of Fareham United Reformed Church where I am secretary 
 and assistant treasurer. I love that CTiF brings us all together with  
