@@ -31,23 +31,11 @@ what we do, or about any of our member churches, please
 <a href="mailto:enquiries@farehamchristians.org.uk">send us an email.</a>
 </div>
 
-<!--
 <div>
 <p>&nbsp;
 <h2>Latest news</h2>
 <p>
-<img src="images/Christingle24.jpg" align="right" height="100" style="padding-right: 20px">
-<img src="images/JMHChristingle.jpg" align="left" height="100" style="padding-right: 20px">
-We ran a very successful <b>Christingle stall</b> as part of the festivities for
-the Christmas lights switch-on in Fareham.
-We welcomed almost 200 children and their families to make a Christingle, and had some
-great conversations as we bore witness to the real meaning of Christmas. Many thanks
-to all the volunteers, from several different churches, who came along to help out.  
 </div>
--->
-<div>
-<p>&nbsp;
-<h2>Upcoming events</h2>
 <div>
 <img src="images/HolClub.png" align="left" height="100">
 Our <b>2025 Summer Holiday Club</b> took place from 28th July to 1st August.
@@ -59,9 +47,21 @@ Please continue to pray for the children and their families. Pray that the seeds
 <a href="mailto:chair@farehamchristians.org.uk">make contact.</a>
 </div>
 <div>
-<p>The next meeting of Christians Together in Fareham is on Wednesday 10th September, 
-at St John's Church,
-Upper St Michael's Grove PO14 1DN, at 7.15pm for 7.30. All are welcome.
+<p>&nbsp;
+<h2>Upcoming events</h2>
+<div>
+<img src="images/Christingle24.jpg" align="right" height="100" style="padding-right: 20px">
+We are running a <b>Christingle stall</b>, as part of the festivities for
+the Christmas lights switch-on in Fareham, on Saturday 22nd November,
+This is an opportunity for children and their families to make a Christingle, and
+to talk about the real meaning of Christmas.  
+<p>The next meeting of Christians Together in Fareham is on Tuesday 3rd February, 
+at Fareham United Reformed Church,
+Osborn Road South PO16 7DG, at 7.15pm for 7.30.
+This will be our Annual General Meeting, where we will celebrate all that we have
+done in Jesus' name over the past year, and will elect a new Chair to replace
+Rachel Hicks, who is stepping down. 
+All are welcome.
 </div>
 </div>
 </body>
