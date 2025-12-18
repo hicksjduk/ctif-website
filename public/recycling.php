@@ -14,9 +14,10 @@ include("nav.html")
 <h2><a id="foil">Aluminium foil</a></h2>
 <p>The churches work together to collect foil, which is taken to the Queen Elizabeth II
 Activity Centre in Manor Farm Country Park - they sell the foil for recycling, and raise money
-for equipment. Foil is collected in various churches, and there are publicly-available bins at
-the Palmerston Avenue car park in central Fareham, and at Immaculate Conception Roman Catholic
-church in Stubbington.
+for equipment. Foil is collected in various churches, and there is a publicly-available bin
+at Immaculate Conception Roman Catholic
+church in Stubbington. <b>Please note that the bins at the Palmerston Avenue car park in central Fareham
+are now closed.</b> 
 <p><b>Please</b> make sure that the foil is clean, and is actually foil not shiny plastic!
 If in doubt, use the 'scrunch' test - scrunch it in your hand and release it, if it stays scrunched
 it is probably aluminium, if it doesn't it definitely isn't.
