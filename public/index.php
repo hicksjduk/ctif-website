@@ -50,11 +50,11 @@ Please continue to pray for the children and their families. Pray that the seeds
 <p>&nbsp;
 <h2>Upcoming events</h2>
 <div>
-<img src="images/Christingle24.jpg" align="right" height="100" style="padding-right: 20px">
-We are running a <b>Christingle stall</b>, as part of the festivities for
-the Christmas lights switch-on in Fareham, on Saturday 22nd November,
-This is an opportunity for children and their families to make a Christingle, and
-to talk about the real meaning of Christmas.  
+<a href="images/carols2025.png">
+<img src="images/carols2025.png" align="right" height="100" style="padding-right: 20px">
+</a>
+We are <b>singing carols at the Bandstand in the West Street pedestrian precinct</b>, 
+on Saturday 20th December starting at 10.30am. Click the image (right) to see more details.
 <p>The next meeting of Christians Together in Fareham is on Tuesday 3rd February, 
 at Fareham United Reformed Church,
 Osborn Road South PO16 7DG, at 7.15pm for 7.30.
