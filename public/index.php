@@ -10,7 +10,7 @@
 function today_in_range($start = null, $end = null)
 {
 	$today = date("Y-m-d");
-//	$today = "2025-03-09";
+//	$today = "2025-12-22";
 	if (empty($start)) $start_iso = $today;
 	if (empty($end)) $end = $today;
 	return $today >= $start && $today <= $end;
@@ -50,6 +50,8 @@ Please continue to pray for the children and their families. Pray that the seeds
 <p>&nbsp;
 <h2>Upcoming events</h2>
 <div>
+<?php $carolsdisp = (today_in_range(end: "2025-12-21") ? "" : "none") ?>
+<p style="display: <?= $carolsdisp ?>">
 <a href="images/carols2025.png">
 <img src="images/carols2025.png" align="right" height="100" style="padding-right: 20px">
 </a>
