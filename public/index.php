@@ -50,13 +50,15 @@ Please continue to pray for the children and their families. Pray that the seeds
 <p>&nbsp;
 <h2>Upcoming events</h2>
 <div>
-<?php $carolsdisp = (today_in_range(end: "2025-12-21") ? "" : "none") ?>
-<p style="display: <?= $carolsdisp ?>">
-<a href="images/carols2025.png">
-<img src="images/carols2025.png" align="right" height="100" style="padding-right: 20px">
-</a>
-We are <b>singing carols at the Bandstand in the West Street pedestrian precinct</b>, 
-on Saturday 20th December starting at 10.30am. Click the image (right) to see more details.
+<img src="https://spckpublishing.co.uk/media/catalog/product/cache/cb3521e067d2c6b88107646df6ae4ecd/9/7/9781909107236_1.jpg" align="left" height="100">
+<p><b>Lent Study Groups</b> will run for five weeks, starting in the week beginning
+23rd February. We will be using the York Course <b>Daring to See God Now
+</b> by Bishop Nick Baines, which explores aspects of the 
+Good News proclaimed by Jesus in Mark's Gospel.
+<br>All are welcome to take part. If you would like to be in a group, please register by
+<a href="lent2026.docx">downloading this form</a>, completing it, and following 
+the instructions to return
+the completed form to Liz Dunning by Friday 13th February.
 <p>The next meeting of Christians Together in Fareham is on Tuesday 3rd February, 
 at Fareham United Reformed Church,
 Osborn Road South PO16 7DG, at 7.15pm for 7.30.
