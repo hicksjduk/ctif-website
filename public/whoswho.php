@@ -13,17 +13,14 @@ include("nav.html")
 <p>Click on the person's name to send them an email.
 <div id="whoswho">
 <div>
-<img src="images/Rachel.jpg" align="left" width="100" style="padding-right: 20px">
-<h2><a href="mailto:chair@farehamchristians.org.uk">Rachel Hicks</a> - Chair</h2>
-<p>I worship at St John's Church. 
-I am married to Jeremy, and we have a son and a grandson.
-I trained as an occupational therapist, and have worked as a mental health OT in 
-hospital and community settings; more recently I was a special needs assistant in 
-primary schools, working with visually-impaired children. I currently lead the team that 
-organises Christians Together's annual summer holiday club for children. 
-<p>I love being 
-part of Christians Together in Fareham, because I am passionate about Christians working 
-together to spread the Good News of Jesus in both word and deed.
+<img src="images/Sam.jpg" align="left" width="100" style="padding-right: 20px">
+<h2><a href="mailto:chair@farehamchristians.org.uk">Rev Sam Cullen</a> - Chair</h2>
+<p>I've been a Church Leader in Fareham (Holy Trinity and St Columba) since 2023.  
+I'm passionate about Christians working together for the common good.  
+I value the love, care, shared prayer and joint action demonstrated by CTiF.  
+I feel very privileged to part of CTiF and I'm looking forward to celebrating 
+our shared foundation, creating opportunities for visible unity in the town 
+and drawing others into the story of God With Us.
 </div>
 <div>
 <img src="images/Liz.jpg" align="left" width="100" style="padding-right: 20px">
