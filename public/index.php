@@ -37,14 +37,10 @@ what we do, or about any of our member churches, please
 <p>
 </div>
 <div>
-<img src="images/HolClub.png" align="left" height="100">
-Our <b>2025 Summer Holiday Club</b> took place from 28th July to 1st August.
-It was a huge success with 60 children and about 50 adults enjoying time together, 
-learning and exploring what it is to have God and Jesus in our lives!
-<br>Thank you everyone for your support and prayers.
-Please continue to pray for the children and their families. Pray that the seeds sown will germinate and flourish.
-<br>If you would like to know more or be involved next year, please 
-<a href="mailto:chair@farehamchristians.org.uk">make contact.</a>
+<p>At our Annual General Meeting on 3rd February, <b>Rev Sam Cullen</b> was elected
+to serve as the Chair of CTiF for the next three years. We are delighted that Sam has
+agreed to take on this role. To find out a little bit more about her, please visit
+<a href="whoswho.php">our "Who's Who" page.</a> 
 </div>
 <div>
 <p>&nbsp;
