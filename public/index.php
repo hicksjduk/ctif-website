@@ -55,17 +55,8 @@ Please continue to pray for the children and their families. Pray that the seeds
 23rd February. We will be using the York Course <b>Daring to See God Now
 </b> by Bishop Nick Baines, which explores aspects of the 
 Good News proclaimed by Jesus in Mark's Gospel.
-<br>All are welcome to take part. If you would like to be in a group, please register by
-<a href="lent2026.docx">downloading this form</a>, completing it, and following 
-the instructions to return
-the completed form to Liz Dunning by Friday 13th February.
-<p>The next meeting of Christians Together in Fareham is on Tuesday 3rd February, 
-at Fareham United Reformed Church,
-Osborn Road South PO16 7DG, at 7.15pm for 7.30.
-This will be our Annual General Meeting, where we will celebrate all that we have
-done in Jesus' name over the past year, and will elect a new Chair to replace
-Rachel Hicks, who is stepping down. 
-All are welcome.
+<br>All are welcome to take part. To find out more, please <a href="lent2026.php">click 
+this link.</a> .
 </div>
 </div>
 </body>
