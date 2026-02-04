@@ -52,7 +52,7 @@ agreed to take on this role. To find out a little bit more about her, please vis
 </b> by Bishop Nick Baines, which explores aspects of the 
 Good News proclaimed by Jesus in Mark's Gospel.
 <br>All are welcome to take part. To find out more, please <a href="lent2026.php">click 
-this link.</a> .
+this link.</a>
 </div>
 </div>
 </body>
