@@ -41,6 +41,11 @@ what we do, or about any of our member churches, please
 to serve as the Chair of CTiF for the next three years. We are delighted that Sam has
 agreed to take on this role. To find out a little bit more about her, please visit
 <a href="whoswho.php">our "Who's Who" page.</a> 
+<p><b>The Fareham Well</b> - a grant-making charity with its origins in a 
+Christians Together in Fareham project - is inviting applications for grants.
+For more information, <a href="https://www.farehamwell.org.uk/">please 
+visit their website</a>, through which
+online grant applications can also be made.
 </div>
 <div>
 <p>&nbsp;

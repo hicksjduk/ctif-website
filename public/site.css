@@ -36,14 +36,16 @@ h2 {
 	padding-top: 10px;
 }
 
+#members {
+	display: flex
+}
+
 #members #content {
-	float: left;
-	width: 60%;
+	flex: 6;
 }
 
 #members #menu {
-	float: right;
-	width: 40%;
+	flex: 4;
 }
 
 #members #menu ul {

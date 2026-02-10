@@ -16,10 +16,10 @@ function show(div) {
 include("nav.html")
 ?>
 <h1>Member churches and supported projects</h1>
-<div id="members"/>
-<div id="content">
 <p>
 Click a name in the list on the right to see the details of that church or project.
+<div id="members">
+<div id="content">
 
 <div class="churchdata" id="urc" style="display:none">
 <img src="/images/furc_img_assist_custom.jpg" width="200" align="left" style="padding-right: 20px">
@@ -154,6 +154,12 @@ Click a name in the list on the right to see the details of that church or proje
 <a href="https://friendsofthehomeless.org.uk/" target="_">(website)</a>
 </div>
 
+<div class="churchdata" id="thewell" style="display:none">
+<img src="https://www.farehamwell.org.uk/wp-content/uploads/2024/12/Fareham-Well-Logo-2.png" width="200" height="200" align="left" style="padding-right: 20px">
+<h2>The Fareham Well</h2>
+<p><a href="https://www.farehamwell.org.uk/" target="_">(website)</a>
+</div>
+
 <div class="churchdata" id="lovecherish" style="display:none">
 <img src="/images/logo-love-and-cherish-1.png" width="200" align="left" style="padding-right: 20px">
 <h2>Love and Cherish Marriage Preparation</h2>
@@ -186,6 +192,7 @@ Click a name in the list on the right to see the details of that church or proje
 <li><a href="#" onclick="show('westendchapel')">West End Chapel</a>
 <li><a href="#" onclick="show('goodneighbours')">Fareham Good Neighbours</a>
 <li><a href="#" onclick="show('basicsbank')">Fareham Basics Bank</a>
+<li><a href="#" onclick="show('thewell')">The Fareham Well</a>
 <li><a href="#" onclick="show('lovecherish')">Love and Cherish</a>
 <li><a href="#" onclick="show('christianaid')">Christian Aid</a>
 </ul>
