@@ -10,7 +10,7 @@
 include("nav.html")
 ?>
 <h1>Lent Groups</h1>
-<img src="https://spckpublishing.co.uk/media/catalog/product/cache/cb3521e067d2c6b88107646df6ae4ecd/9/7/9781909107236_1.jpg" width="200" align="left" style="padding-right: 20px">
+<img src="https://spckpublishing.co.uk/media/catalog/product/cache/cb3521e067d2c6b88107646df6ae4ecd/9/7/9781909107236_1.jpg" width="200" align="left">
 <p>Our Lent study groups in 2026 will be following the course "Daring to See God Now",
 published by York Courses and written by Bishop Nick Baines. Everyone is welcome to take part;
 it's a great opportunity to get to know Christians from different churches,
