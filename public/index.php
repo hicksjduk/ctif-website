@@ -48,24 +48,21 @@ visit their website</a>, through which
 online grant applications can also be made.
 </div>
 <div>
+<img src="images/calogo.gif" align="left" width="100">
+<p>Our <b>Lent Lunches</b> were a great success, and raised around &pound;800 for Christian Aid.
+Many thanks to those who organised the lunches, those who catered, and all who 
+attended and gave so generously.</a>
+</div>
+<div>
 <p>&nbsp;
 <h2>Upcoming events</h2>
 <div>
-<img src="https://spckpublishing.co.uk/media/catalog/product/cache/cb3521e067d2c6b88107646df6ae4ecd/9/7/9781909107236_1.jpg" align="left" width="100">
-<p><b>Lent Study Groups</b> will run for five weeks, starting in the week beginning
-23rd February. We will be using the York Course <b>Daring to See God Now
-</b> by Bishop Nick Baines, which explores aspects of the 
-Good News proclaimed by Jesus in Mark's Gospel.
-<br>All are welcome to take part. To find out more, please <a href="lent2026.php">click 
-this link.</a>
+<img src="images/HolClub.png" align="left" width="100">
+<p>Our <b>Summer Holiday Club</b> will take place once again during the first full week of the
+school summer holidays, from Monday 27th to Friday 31st July. <a href="holclubreg.php">Click
+this link</a> to find out more.
 </div>
-<div>
-<img src="images/calogo.gif" align="left" width="100">
-<p><b>Lent Lunches</b> are taking place at Fareham United Reformed Church, on Thursdays
-from 26th February to 26th March, at 12.15pm. All are welcome to share a simple meal of
-soup, bread and fruit; there is no charge, but donations are invited to Christian Aid.
-<a href="https://fundraise.christianaid.org.uk/fundraiser-2026/lent-lunches">Donations can be made online by clicking this link.</a>
-</div>
+
 </div>
 </body>
 </html>
