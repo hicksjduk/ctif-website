@@ -10,7 +10,7 @@
 include("nav.html")
 ?>
 <div style="padding-bottom: 30px">
-<img align="left" src="https://cdn.pixabay.com/photo/2021/12/02/07/23/nativity-scene-6839845_640.jpg" height="100" style="padding-right: 20px">
+<img align="left" src="https://cdn.pixabay.com/photo/2021/12/02/07/23/nativity-scene-6839845_640.jpg" height="100">
 <h1>Christmas services</h1>
 The following are the Christmas services that have been notified to us. If a church
 you're interested in is not listed here, please try <a href="/members.php">our member churches' websites</a>.
