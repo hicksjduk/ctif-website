@@ -34,8 +34,8 @@ Yes. The children will be given a snack during the morning, as well as lunch.
 <?php /* ?>
 Fill in <a href="https://form.jotform.com/240794176485064">the registration form.</a> 
 <?php */ ?>
-Bookings will open on <b>Wednesday 6th May</b>. Please check back here once bookings are 
-open, and click the link to the registration form.
+Bookings will open <b>at 9am on Wednesday 6th May</b>. Please check back here once bookings are 
+open, and click the link to the registration form which will be displayed here then.
 <p><b>Please note that demand for the holiday club is likely to be extremely high.
 In fairness to everyone, we ask you only to book if you can ensure that your child 
 will be able to attend all five days.</b>
