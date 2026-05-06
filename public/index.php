@@ -59,8 +59,9 @@ attended and gave so generously.</a>
 <div>
 <img src="images/HolClub.png" align="left" width="100">
 <p>Our <b>Summer Holiday Club</b> will take place once again during the first full week of the
-school summer holidays, from Monday 27th to Friday 31st July. <a href="holclubreg.php">Click
-this link</a> to find out more.
+school summer holidays, from Monday 27th to Friday 31st July. <b>Bookings are now open.</b>
+<a href="holclubreg.php">Click
+this link</a> to find out more, or to book.
 </div>
 
 </div>
