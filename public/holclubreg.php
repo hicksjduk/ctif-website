@@ -19,10 +19,10 @@ function today_in_range($start = null, $end = null)
 	return $today >= $start && $today <= $end;
 }
 ?>
-<a href="images/HolClub.png"><img src="images/HolClub.png" align="right" height="300"></a>
 <?php /* ?>
-<a href="images/HolClubBooked.png"><img src="images/HolClubBooked.png" align="right" height="300"></a>
+<a href="images/HolClub.png"><img src="images/HolClub.png" align="right" height="300"></a>
 <?php */ ?>
+<a href="images/HolClubBooked.png"><img src="images/HolClubBooked.png" align="right" height="300"></a>
 <h1>Holiday Club 2026</h1>
 <h2>When is it?</h2>
 Monday 27th to Friday 31st July - 9.45am to 1.15pm. On Friday 31st July, parents/carers are invited to come along at 12.45pm to watch the 'All Together Activity'. 
@@ -41,13 +41,13 @@ open, and click the link to the registration form which will be displayed here t
 In fairness to everyone, we ask you only to book if you can ensure that your child 
 will be able to attend all five days.</b>
 <?php */ ?>
+<?php /* ?>
 Fill in <a href="https://form.jotform.com/240794176485064">the registration form.</a> 
 <p><b>Please note that demand for the holiday club is likely to be extremely high.
 In fairness to everyone, we ask you only to book if you can ensure that your child 
 will be able to attend all five days.</b>
-<?php /* ?>
-<b>Bookings are now closed</b> as we are fully booked.
 <?php */ ?>
+<b>Bookings are now closed</b> as we are fully booked.
 <h2>Any other questions?</h2>
 Contact Debs on 07749 023776, or email <a href="mailto:holidayclub@farehamchristians.org.uk">holidayclub@farehamchristians.org.uk</a>
 </body>
