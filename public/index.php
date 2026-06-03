@@ -37,21 +37,15 @@ what we do, or about any of our member churches, please
 <p>
 </div>
 <div>
-<p>At our Annual General Meeting on 3rd February, <b>Rev Sam Cullen</b> was elected
-to serve as the Chair of CTiF for the next three years. We are delighted that Sam has
-agreed to take on this role. To find out a little bit more about her, please visit
-<a href="whoswho.php">our "Who's Who" page.</a> 
-<p><b>The Fareham Well</b> - a grant-making charity with its origins in a 
-Christians Together in Fareham project - is inviting applications for grants.
-For more information, <a href="https://www.farehamwell.org.uk/">please 
-visit their website</a>, through which
-online grant applications can also be made.
-</div>
-<div>
-<img src="images/calogo.gif" align="left" width="100">
-<p>Our <b>Lent Lunches</b> were a great success, and raised around &pound;800 for Christian Aid.
-Many thanks to those who organised the lunches, those who catered, and all who 
-attended and gave so generously.</a>
+<img src="https://lh3.googleusercontent.com/sitesv/AA5AbUDdv39lhaZPSeHktLjGyVVY3GI7ing8sFPrYWfoNr79t4_t7U_4ivXV2souhTkMoZA5zYZvFjTiuGMbqFFcgXvc-AhwL4a4J0LOSgahQA1ex--8P0Lye0uMBoL0ev7_qrUrO_GsgO0UkcGbha2T2VmytiHuwh9LTnUiO7UImMTzJLArJgWgZe7X4RhFaA06bQgwtpoP8hhlre9b_qT6REhRnhbHijOXvO8x=w1280" align="left" width="100">
+<b>Fareham Good Neighbours</b> are seeking to recruit new volunteer befrienders.
+<a href="/images/VolunteerFlyer31May26.png">Click here</a> to find out more. 
+You can also meet them at their monthly gatherings, on the first Tuesday of every month,
+between 10.30am and 12.30pm, at the Summerhouse Coffee Lounge, Silver Springs Garden Centre, Fareham 
+<a href="https://maps.app.goo.gl/WrdMonaCsYpbvAQH8">(map)</a>.
+Or visit their new website at 
+<a href="https://www.farehamgoodneighbours.org">https://www.farehamgoodneighbours.org</a>,
+or their Facebook page at <a href="https://www.facebook.com/FarehamGoodNeighbours">https://www.facebook.com/FarehamGoodNeighbours</a>.
 </div>
 <div>
 <p>&nbsp;

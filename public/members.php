@@ -141,9 +141,9 @@ Click a name in the list on the right to see the details of that church or proje
 </div>
 
 <div class="churchdata" id="goodneighbours" style="display:none">
-<img src="/images/FGN-Logo-2020.png" width="200" align="left">
+<img src="https://lh3.googleusercontent.com/sitesv/AA5AbUDdv39lhaZPSeHktLjGyVVY3GI7ing8sFPrYWfoNr79t4_t7U_4ivXV2souhTkMoZA5zYZvFjTiuGMbqFFcgXvc-AhwL4a4J0LOSgahQA1ex--8P0Lye0uMBoL0ev7_qrUrO_GsgO0UkcGbha2T2VmytiHuwh9LTnUiO7UImMTzJLArJgWgZe7X4RhFaA06bQgwtpoP8hhlre9b_qT6REhRnhbHijOXvO8x=w1280" width="200" align="left">
 <h2>Fareham Good Neighbours</h2>
-<a href="http://www.farehamgoodneighbours.org.uk/" target="_">(website)</a>
+<a href="https://www.farehamgoodneighbours.org/" target="_">(website)</a>
 </div>
 
 <div class="churchdata" id="basicsbank" style="display:none">
