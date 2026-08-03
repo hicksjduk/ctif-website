@@ -21,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@main
       - name: FTP Deployer
-        uses: sand4rt/ftp-deployer@main
+        uses: sand4rt/ftp-deployer@v1.10
         with:
           sftp: true
           host: ${{ secrets.SERVER_HOST }}
