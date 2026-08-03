@@ -35,9 +35,17 @@ what we do, or about any of our member churches, please
 <p>&nbsp;
 <h2>Latest news</h2>
 <p>
+<div>
+<img src="/images/HolClubVolunteers2026.jpg" height="100" align="left">
+We have come to the end of another successful <b>Holiday Club</b>. The 60
+children, aged from 5 to 11, had a wonderful time with Bible teaching, singing
+and dancing, and activities including craft, science, games, cooking and music.
+Many thanks to all our wonderful volunteers (see picture), to our three host churches 
+for their hospitality, and to everyone who supported us in prayer.
+</div>
 </div>
 <div>
-<img src="https://lh3.googleusercontent.com/sitesv/AA5AbUDdv39lhaZPSeHktLjGyVVY3GI7ing8sFPrYWfoNr79t4_t7U_4ivXV2souhTkMoZA5zYZvFjTiuGMbqFFcgXvc-AhwL4a4J0LOSgahQA1ex--8P0Lye0uMBoL0ev7_qrUrO_GsgO0UkcGbha2T2VmytiHuwh9LTnUiO7UImMTzJLArJgWgZe7X4RhFaA06bQgwtpoP8hhlre9b_qT6REhRnhbHijOXvO8x=w1280" align="left" width="100">
+<img src="https://lh3.googleusercontent.com/sitesv/AG8ngQVQaYZIFobB_T9S3F8_H5mR3W0kIt2CczDduKtx-cLKFOgR4j6DC-7FkUznTIdGG2y6zrVksQnCTrv1I9IrxMN0Fuqey7h0Lv41dfTQBEJm13upc6qyIbNZ66a2InG18caz92q2y01rQZuHiBBOcID3qIzg-ktyuqstDNsA9Rv74l0su8Ieq2OGvLGWuJo=w16383" align="left" width="100">
 <b>Fareham Good Neighbours</b> are seeking to recruit new volunteer befrienders.
 <a href="/images/VolunteerFlyer31May26.png">Click here</a> to find out more. 
 You can also meet them at their monthly gatherings, on the first Tuesday of every month,
@@ -51,25 +59,8 @@ or their Facebook page at <a href="https://www.facebook.com/FarehamGoodNeighbour
 <p>&nbsp;
 <h2>Upcoming events</h2>
 <div>
-<img src="images/HolClubBooked.png" align="left" width="100">
-<p>Our <b>Summer Holiday Club</b> will take place once again during the first full week of the
-school summer holidays, from Monday 27th to Friday 31st July. 
-<?php /* ?>
-Bookings will open <b>at 9am on Wednesday 6th May</b>.
-<a href="holclubreg.php">Click
-this link</a> to find out more.
-<?php */ ?>
-<?php /* ?>
-<b>Bookings are now open.</b>
-<a href="holclubreg.php">Click
-this link</a> to find out more, or to book.
-<?php */ ?>
-<a href="holclubreg.php">Click
-this link</a> to find out more.
-<b>Bookings are now closed</b> as we are fully booked.
-
-</div>
-
+Our next meeting, for planning, sharing and prayer, is on <b>Tuesday 15th September</b>, at
+7.15 for 7.30pm, at St John's Church, Upper St Michael's Grove PO14 1DN. Everyone is welcome.
 </div>
 </body>
 </html>
