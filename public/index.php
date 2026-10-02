@@ -45,17 +45,6 @@ for their hospitality, and to everyone who supported us in prayer.
 </div>
 </div>
 <div>
-<img src="https://lh3.googleusercontent.com/sitesv/AG8ngQVQaYZIFobB_T9S3F8_H5mR3W0kIt2CczDduKtx-cLKFOgR4j6DC-7FkUznTIdGG2y6zrVksQnCTrv1I9IrxMN0Fuqey7h0Lv41dfTQBEJm13upc6qyIbNZ66a2InG18caz92q2y01rQZuHiBBOcID3qIzg-ktyuqstDNsA9Rv74l0su8Ieq2OGvLGWuJo=w16383" align="left" width="100">
-<b>Fareham Good Neighbours</b> are seeking to recruit new volunteer befrienders.
-<a href="/images/VolunteerFlyer31May26.png">Click here</a> to find out more. 
-You can also meet them at their monthly gatherings, on the first Tuesday of every month,
-between 10.30am and 12.30pm, at the Summerhouse Coffee Lounge, Silver Springs Garden Centre, Fareham 
-<a href="https://maps.app.goo.gl/WrdMonaCsYpbvAQH8">(map)</a>.
-Or visit their new website at 
-<a href="https://www.farehamgoodneighbours.org">https://www.farehamgoodneighbours.org</a>,
-or their Facebook page at <a href="https://www.facebook.com/FarehamGoodNeighbours">https://www.facebook.com/FarehamGoodNeighbours</a>.
-</div>
-<div>
 <p>&nbsp;
 <h2>Upcoming events</h2>
 <div>
