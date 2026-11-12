@@ -33,6 +33,7 @@ what we do, or about any of our member churches, please
 
 <div>
 <p>&nbsp;
+<!--
 <h2>Latest news</h2>
 <p>
 <div>
@@ -46,10 +47,39 @@ for their hospitality, and to everyone who supported us in prayer.
 </div>
 <div>
 <p>&nbsp;
+-->
 <h2>Upcoming events</h2>
 <div>
-Our next meeting, for planning, sharing and prayer, is on <b>Tuesday 15th September</b>, at
-7.15 for 7.30pm, at St John's Church, Upper St Michael's Grove PO14 1DN. Everyone is welcome.
+<p>
+We will be running a <b>Christingle stall</b> in the town centre, as part of the festivities
+for the switch-on of Christmas lights, on Saturday 21st November from 10am. This is a 
+wonderful opportunity to engage with children and their families about the true meaning
+of Christmas.
+</div>
+<div>
+<p>
+We will be <b>singing carols</b> in the run-up to Christmas:
+<ul>
+<li>at the Castle in the Air, Old Gosport Road, on Thursday 10th December from 7.30pm.
+<li>at the Fareham pub, Trinity Street, on Wednesday 16th December from 7pm.
+<li>at the Podium in West Street, on Saturday 19th December from 10.30am.
+</div>
+<div>
+<p>
+For details of <b>Christmas services</b> in our member churches, please visit the individual
+churches' websites via our <a href="/members.php">Members and projects</a> page.
+</div>
+<div>
+<p>
+We will meet together for worship in the <b>Week of Prayer for Christian Unity</b>,
+at the United Reformed Church, Osborn Road South, on Sunday 24th January. 
+Time to be confirmed, but likely to be either 3pm or 4pm.
+</div>
+<div>
+<p>
+Our next meeting, for planning, sharing and prayer, is our Annual General Meeting on 
+<b>Thursday 4th February</b>, at
+7.15 for 7.30pm, at Gateway Church, West Street. Everyone is welcome.
 </div>
 </body>
 </html>
